@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hey, I'm Hunter — Cybersecurity Engineer | Open Source Dev | Blogger
 
-<!--
-**hunterrr27/hunterrr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Check out my latest phishing simulator: [Phishy](https://github.com/yourrepo)
 
-Here are some ideas to get you started:
+📦 Tools I've Built:
+- [InsiderLab Recon CLI](#) - OSINT tool for bug bounty hunters
+- [ThreatFeeds Aggregator](#) - Curated daily feeds of IOC sources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Get My Free OSINT Toolkit ➡ [insiderlab.io/free-osint](#)
+
+💡 Want custom setups or pentest tools? [Hire me](#)
+
+☕️ Found my work useful? [Buy me a coffee](https://buymeacoffee.com/yourhandle)
