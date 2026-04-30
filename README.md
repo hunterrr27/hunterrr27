@@ -1,9 +1,7 @@
-👋 Hey, I'm Hunter — Cybersecurity Engineer | Open Source Dev | Blogger
+Hey, I'm Hunter — Cybersecurity Engineer / Dev
 
-🔐 Check out my latest phishing simulator: [Phishy](https://github.com/yourrepo)
+I like coding, CTFs, and Hack the Box!
 
-🚀 Get My Free OSINT Toolkit ➡ [insiderlab.io/free-osint](#)
+Currently hyperfixating on low level dev skills in C and C++
 
-💡 Want custom setups or pentest tools? [Hire me](#)
 
-☕️ Found my work useful? [Buy me a coffee](https://buymeacoffee.com/huntfree27)
